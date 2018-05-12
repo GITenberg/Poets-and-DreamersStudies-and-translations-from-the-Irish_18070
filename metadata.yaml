@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4092
     wikipedia: http://en.wikipedia.org/wiki/Augusta,_Lady_Gregory
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18070#Poets-and-DreamersStudies-and-translations-from-the-Irish
 gutenberg_issued: '2006-03-29'
 gutenberg_type: Text
 identifiers:
