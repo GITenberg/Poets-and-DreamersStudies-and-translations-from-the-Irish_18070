@@ -1,0 +1,39 @@
+_repo: Poets-and-DreamersStudies-and-translations-from-the-Irish_18070
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gregory, Lady
+    aliases:
+    - Gregory, Isabella Augusta Persse, Lady
+    - Persse, Isabella Augusta
+    birthdate: 1852
+    deathdate: 1932
+    gutenberg_agent_id: '4092'
+    url: http://www.gutenberg.org/2009/agents/4092
+    wikipedia: http://en.wikipedia.org/wiki/Augusta,_Lady_Gregory
+description: ''
+gutenberg_issued: '2006-03-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18070'
+  lccn: 03016394
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Irish literature -- History and criticism'
+- !lcsh 'Ireland -- In literature'
+- !lcsh 'Ireland -- Literary collections'
+- !lcsh 'Irish literature -- Translations into English'
+- !lcc 'PR'
+tableOfContents: 'Raftery -- West Irish ballads -- Jacobite ballads -- An Craoibhin''s
+  [i.e. Douglas Hyde''s] poems -- Boer ballads in Ireland -- A sorrowful lament for
+  Ireland -- Mountain theology -- Herb-healing -- The wandering tribe -- Workhouse
+  dreams -- On the edge of the world -- An Craoibhin''s [i.e. Douglas Hyde''s] plays:
+  The twisting of the rope. The marriage. The lost saint. The nativity.'
+title: 'Poets and Dreamers: Studies and translations from the Irish'
+url: http://www.gutenberg.org/ebooks/18070
